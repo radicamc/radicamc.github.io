@@ -9,11 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
 
   - title: "CV"
     url: https://radicamc.github.io/files/CV_20.pdf
