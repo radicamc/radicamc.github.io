@@ -84,7 +84,7 @@ author:
   avatar           : "newprofile.png"
   bio              : "Ph.D student with the Instutute for Exoplanet Research (iREx) at the University of Montréal"
   location         : "Montréal, Canada"
-  employer         :
+  employer         : "http://www.exoplanetes.umontreal.ca/?lang=en"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "radica@astro.umontreal.ca"
