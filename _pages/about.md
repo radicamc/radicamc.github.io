@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Michael Radica"
-excerpt: "About me"
+excerpt: "Michael Radica"
 author_profile: true
 redirect_from:
   - /about/
