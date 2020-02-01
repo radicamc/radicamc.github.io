@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://radicamc.github.io/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/publications/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/files/CV_20.pdf</loc>
+  <lastmod>2020-02-01T03:06:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/sitemap/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/404.html</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/archive-layout-with-content/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/non-menu-page/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/tags/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/talkmap.html</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/talks/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/terms/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/markdown_generator/</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/robots.txt</loc>
+  <lastmod>2020-02-01T03:06:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://radicamc.github.io/talkmap/map.html</loc>
+  <lastmod>2020-02-01T03:06:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
