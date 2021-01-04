@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Radica"
   avatar           : "newprofile.png"
-  bio              : "Ph.D student with the Instutute for Exoplanet Research (iREx) at the University of Montréal"
+  bio              : "Ph.D candidate with the Instutute for Exoplanet Research (iREx) at the University of Montréal"
   location         : "Montréal, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3328-1203"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

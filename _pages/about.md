@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Michael, I'm a Ph.D student in astronomy with [The Institute for Exoplanet Research (iREx)](http://www.exoplanetes.umontreal.ca/?lang=en) at the [Université de Montréal](https://www.umontreal.ca).
+Hi! My name is Michael, I'm a Ph.D candidate in astronomy with [The Institute for Exoplanet Research (iREx)](http://www.exoplanetes.umontreal.ca/?lang=en) at the [Université de Montréal](https://www.umontreal.ca).
 
 Who hasn't looked up at the sky on a clear night and wondered whether or not we are alone in the universe? Like I was, you may be surprised to learn that this question is no longer solely confined to the realm of science fiction! Thanks to missions like [Kepler](kepler mission discoveries), astronomers have discovered over 4000 planets orbiting around stars other than our Sun. We now know there is a veritable zoo of exoplanets in our galaxy, many of which look very different from the eight planets in our solar system. But not only can we infer the physical properties of exoplanets, but using spectroscopic techniques, we can also probe the compositions of their atmospheres.
 
