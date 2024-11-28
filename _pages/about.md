@@ -14,4 +14,6 @@ I'm interested in better understanding the diverse nature of exoplanets in the g
 
 I also write whimsically named software packages to analyze exoplanet observations. You can find most of them on [GitHub](https://github.com/radicamc).
 
+You can reach me via email at: radicamc (at) uchicago.edu
+
 (Last revised Aug 6, 2024)
